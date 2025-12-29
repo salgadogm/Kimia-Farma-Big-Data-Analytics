@@ -1,6 +1,6 @@
 # Performance Analytics Kimia Farma (2020-2023)
 
-Proyek ini adalah bagian dari *Big Data Analytics Internship* di Kimia Farma. Tujuannya adalah untuk menganalisis kinerja bisnis perusahaan menggunakan BigQuery dan Looker Studio.
+Project ini merupakan bagian dari *Big Data Analytics Internship* di Kimia Farma. Tujuannya adalah untuk menganalisis kinerja bisnis perusahaan menggunakan BigQuery dan Looker Studio.
 
 ## Isi Repositori
 - **dataset/**: Berisi file mentah CSV (transaksi, produk, cabang, dan inventaris).
